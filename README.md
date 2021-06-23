@@ -1,4 +1,5 @@
-# model-project
+# Modal project
+Simple learning project with themed modals.
 
 ## Project setup
 ```
